@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ittehad Siddquee
+# 👋 Hi, I'm Ittehad Siddiquee
 
 ## 💡 Welcome to my GitHub space
 *Learning, building, and growing as a Full-Stack Developer* 🚀
