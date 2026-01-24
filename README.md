@@ -11,11 +11,11 @@
 <br/>
 
 <!-- Quick Stats Badges -->
-<img src="https://komarev.com/ghpvc/?username=mdrijoanmaruf&style=for-the-badge&color=1f6feb&labelColor=0d1117&label=PROFILE+VIEWS" />
-<a href="https://github.com/mdrijoanmaruf?tab=followers">
-  <img src="https://img.shields.io/github/followers/mdrijoanmaruf?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=ittehadSiddiquee&style=for-the-badge&color=1f6feb&labelColor=0d1117&label=PROFILE+VIEWS" />
+<a href="https://github.com/ittehadSiddiquee?tab=followers">
+  <img src="https://img.shields.io/github/followers/ittehadSiddiquee?style=for-the-badge&color=58a6ff&labelColor=0d1117&logo=github" />
 </a>
-<img src="https://img.shields.io/github/stars/mdrijoanmaruf?style=for-the-badge&color=f0883e&labelColor=0d1117&logo=github" />
+<img src="https://img.shields.io/github/stars/ittehadSiddiquee?style=for-the-badge&color=f0883e&labelColor=0d1117&logo=github" />
 
 </div>
 
@@ -36,13 +36,15 @@ education: CSE @ AIUB
 interests:
   - Full Stack Development
   - Full Stack Applications
-  - System Design
+  - Problem Solving
+  - New Web Technologies
   - Open Source
 
 learning: Next.js 15 & Cloud Technologies
 
-goals_2025:
+goals_2026:
+  - Learn New Web Technologies
+  - Improve Problem Solving Skills
+  - Build Scalable Real-World Applications
   - Contribute to Open Source
-  - Build Production-Ready Apps
   - Master Cloud Platforms
-  - Share Knowledge
